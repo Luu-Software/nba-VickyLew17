@@ -6,16 +6,19 @@ let roster: number[] = [];
 
 export function estaEnRoster(roster: number[], id: number): boolean {
   let esta: boolean = false; // COMPLETAR
+
   return esta;
 }
 
 export function agregarAlRoster(roster: number[], id: number): number[] {
   let nuevoRoster: number[] = []; // COMPLETAR
+
   return nuevoRoster;
 }
 
 export function quitarDelRoster(roster: number[], id: number): number[] {
   let nuevoRoster: number[] = []; // COMPLETAR
+  
   return nuevoRoster;
 }
 
